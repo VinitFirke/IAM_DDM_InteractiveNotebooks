@@ -13,4 +13,4 @@ dependencies:
   - pandas
   - bqplot
   - pybind11>=2.12
-  - python<=3.11
+  - python>=3.11, <3.12
