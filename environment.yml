@@ -12,3 +12,4 @@ dependencies:
   - ipecharts
   - pandas
   - bqplot
+  - pybind11>=2.12
