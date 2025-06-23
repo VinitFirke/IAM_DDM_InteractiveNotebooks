@@ -9,4 +9,5 @@ dependencies:
   - scipy
   - ipywidgets==8.1.5
   - ipecharts
-  
+  - pandas
+  - bqplot
