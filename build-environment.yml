@@ -4,8 +4,4 @@ channels:
 dependencies:
   - jupyterlite-xeus>=2.0.0,<3
   - voici_core>=0.7,<0.8
-  - numpy==1.26.2
-  - matplotlib==3.8.2
-  - scikit-learn==1.3.2
-  - ipywidgets==8.1.5
-  - voila==0.5.4
+  
