@@ -8,7 +8,7 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
-  - ipywidgets]
+  - ipywidgets
   - ipecharts
   - pandas
   - bqplot
