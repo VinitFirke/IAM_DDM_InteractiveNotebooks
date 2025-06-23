@@ -4,8 +4,9 @@ channels:
   - conda-forge
 dependencies:
   - xeus-python
-  - numpy
-  - matplotlib
-  - scikit-learn
-  - ipywidgets
-  - voila
+  - numpy==1.26.2
+  - matplotlib==3.8.2
+  - scipy
+  - ipywidgets==8.1.5
+
+  
