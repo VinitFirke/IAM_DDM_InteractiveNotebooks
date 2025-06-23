@@ -8,5 +8,5 @@ dependencies:
   - matplotlib==3.8.2
   - scipy
   - ipywidgets==8.1.5
-
+  - ipecharts
   
